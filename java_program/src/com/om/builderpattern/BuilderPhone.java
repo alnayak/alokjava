@@ -1,4 +1,4 @@
-package com.om.builderPattern;
+package com.om.builderpattern;
 
 public class BuilderPhone {
 	private String model;

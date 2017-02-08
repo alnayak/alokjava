@@ -1,4 +1,4 @@
-package com.om.builderPattern;
+package com.om.builderpattern;
 
 /**
  * @author anayak

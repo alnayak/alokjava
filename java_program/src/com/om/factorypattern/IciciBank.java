@@ -1,4 +1,4 @@
-package com.om.FactoryPattern;
+package com.om.factorypattern;
 
 public class IciciBank implements Bank {
 

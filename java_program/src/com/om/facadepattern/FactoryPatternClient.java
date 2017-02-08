@@ -1,4 +1,4 @@
-package com.om.FacadePattern;
+package com.om.facadepattern;
 
 public class FactoryPatternClient {
 

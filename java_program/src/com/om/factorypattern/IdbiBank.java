@@ -1,4 +1,4 @@
-package com.om.FactoryPattern;
+package com.om.factorypattern;
 
 public class IdbiBank implements Bank {
 
